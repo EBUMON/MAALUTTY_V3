@@ -17,7 +17,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EBUMON/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
 
 ## Setup
 <div align="center">
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
   
   ### Deploy server 1
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Husni-ser/MAALU) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EBUMON/MAALU) 
 
   ### Deploy server 2
  
